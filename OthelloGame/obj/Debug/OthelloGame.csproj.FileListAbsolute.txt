@@ -1,0 +1,10 @@
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/bin/Debug/OthelloGame.exe.config
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/bin/Debug/OthelloGame.exe
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/bin/Debug/OthelloGame.pdb
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/bin/Debug/Ex02.ConsoleUtils.dll
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/obj/Debug/OthelloGame.csproj.AssemblyReference.cache
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/obj/Debug/OthelloGame.exe.config
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/obj/Debug/OthelloGame.csproj.CoreCompileInputs.cache
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/obj/Debug/OthelloGame.csproj.CopyComplete
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/obj/Debug/OthelloGame.exe
+/Users/adaraz/RiderProjects/OthelloGame/OthelloGame/obj/Debug/OthelloGame.pdb
